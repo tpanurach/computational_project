@@ -1,4 +1,4 @@
-symbols,Atomic Number,elements,JAEA Data ICSE Data,,Total Sorbate Count
+symbols,Atomic Number,elements,JAEA Data, ICSE Data,Total Sorbate Count
 H,1,Hydrogen,0,8176,8176
 He,2,Helium,0,0,0
 Li,3,Lithium,0,0,0
@@ -102,7 +102,7 @@ Fm,100,Fermium,0,0,0
 Md,101,Mendelevium,0,0,0
 No,102,Nobelium,0,0,0
 Lr,103,Lawrencium,0,0,0
-Rf,104,Rutherfordium,,0,0
+Rf,104,Rutherfordium,0,0,0
 Db,105,Dubnium,0,0,0
 Sg,106,Seaborgium,0,0,0
 Bh,107,Bohrium,0,0,0
