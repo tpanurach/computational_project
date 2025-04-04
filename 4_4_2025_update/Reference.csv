@@ -1,0 +1,358 @@
+ID,Reference,doi link,Imported by,comments
+1,azbn00,AZBN00.pdf,Mavrik Zavarin,HA data are available but key parameters missing
+2,azzbn01,http://dx.doi.org/10.1016/S0169-7722(00)00151-0,Mavrik Zavarin,"chlorite, muscovite, albite data not digitized"
+3,IAC,atmospheric_co2_values.xlsx,Mavrik Zavarin,
+4,jhlch99,http://dx.doi.org/10.1007/BF02345570,Mavrik Zavarin,some minerals not yet digitized
+5,pjtp01,http://dx.doi.org/10.1016/S0169-7722(00)00153-4,Mavrik Zavarin,
+6,ptbp98,http://dx.doi.org/10.1016/B978-012384245-9/50004-9,Mavrik Zavarin,clino data not digitized
+7,d01,d01.pdf,Mavrik Zavarin,
+8,kckd96,http://dx.doi.org/10.1029/95WR02815,Mavrik Zavarin,
+9,fdz06,http://dx.doi.org/10.1016/j.gca.2005.11.027,Mavrik Zavarin,
+10,azbn98,http://dx.doi.org/10.1016/S0009-2541(98)00075-8,Mavrik Zavarin,phyllite sorption not imported (mixed mineralogy)
+11,ambts89,http://dx.doi.org/10.1016/0016-7061(89)90027-X,mavrik zavarin,FA and HA data not imported
+12,c96,c96_ref.pdf,mavrik zavarin,
+14,k02,http://dx.doi.org/10.1524/ract.2002.90.9-11_2002.8,Mavrik Zavarin,compilation of data from the literature
+15,nb10,http://dx.doi.org/10.1524/ract.2010.1762,Mavrik Zavarin,mostly compilation of data from the literature
+16,ss96,http://dx.doi.org/10.1016/0016-7037(96)00207-4,Mavrik Zavarin,theoretical model of surface protonation for minerals
+17,vt98,http://dx.doi.org/10.2172/664593,Mavrik Zavarin,
+18,aotka82,http://dx.doi.org/10.1557/PROC-11-775,Mavrik Zavarin,Pa not digitized
+19,bbc83,http://dx.doi.org/10.1021/j100230a024,Mavrik Zavarin,ion exchange data; bbmc83 in RES3T database
+20,bpa98,bpa98_reference.txt,Mavrik Zavarin,"book chapter, cannot find online"
+21,dk52,https://doi.org/10.1021/j150500a013,Mavrik Zavarin,no SA measurement
+22,ft97,http://dx.doi.org/10.1557/PROC-465-781,Mavrik Zavarin,precip issues in data
+23,fwr95,http://dx.doi.org/10.1524/ract.1995.69.2.103,Mavrik Zavarin,
+24,fw98,https://doi.org/10.1016/S0927-7757(98)00662-1,Mavrik Zavarin,
+26,gasm91,http://dx.doi.org/10.1016/0021-9797(91)90303-P,Mavrik Zavarin,
+27,k62,http://dx.doi.org/10.1135/cccc19620938,Mavrik Zavarin,data scanned from dzomback book; text is in German
+28,kasw00,http://dx.doi.org/10.1016/S0016-7037(99)00174-X,Mavrik Zavarin,Nd data not digitized
+29,km84,http://dx.doi.org/10.1016/0304-4203(84)90012-4,Mavrik Zavarin,Np on calcite and aragonite. Not well controlled
+30,kmps97,kmps97.pdf,Mavrik Zavarin,FA data not imported
+31,ksj75,http://dx.doi.org/10.2136/sssaj1975.03615995003900,Mavrik Zavarin,heated gibbsite not digitized
+32,lkda94,http://dx.doi.org/10.1524/ract.1994.6667.special-i,Mavrik Zavarin,
+33,mso92,http://dx.doi.org/10.1016/S0883-2927(09)80072-3,Mavrik Zavarin,
+34,nea94,http://dx.doi.org/10.1524/ract.1994.65.4.265,Mavrik Zavarin,
+35,ns91,http://dx.doi.org/10.1524/ract.1991.5253.1.153,Mavrik Zavarin,
+36,p94,https://doi.org/10.1016/0016-7037(94)90192-9,Mavrik Zavarin,total cation concentrations reported
+37,pfjb97,https://doi.org/10.1006/jcis.1997.5115,Mavrik Zavarin,isotherm
+38,rbab91,http://dx.doi.org/10.1021/es00023a012,Mavrik Zavarin,HA data not imported
+39,rbmb88,http://dx.doi.org/10.1524/ract.1988.4445.1.73,Mavrik Zavarin,HA data not imported
+40,rgkb98,http://dx.doi.org/10.1006/jcis.1998.5788,Mavrik Zavarin,
+41,s83,https://inis.iaea.org/search/search.aspx?orig_q=RN,Mavrik Zavarin,"goethite data not included; sms85 reference; unable to obtain doi, link is to IAEA site containing abstract"
+42,sd90,http://dx.doi.org/10.1524/ract.1990.51.4.189,Mavrik Zavarin,
+43,sem81,https://doi.org/10.1016/0022-1902(81)80108-X,Mavrik Zavarin,no surface area info; estimated from manufacturer data
+44,sms85,https://doi.org/10.1016/0016-7037(85)90230-3,mavrik zavarin/erin black,
+45,tpb98,http://dx.doi.org/10.1346/CCMN.1998.0460305,mavrik zavarin,
+46,zcr91,http://dx.doi.org/10.1016/0016-7037(91)90127-Q,Mavrik Zavarin,
+47,vrl94,http://dx.doi.org/10.1016/0016-7037(94)90286-0,Mavrik Zavarin,
+48,wmdv98,http://dx.doi.org/10.1524/ract.1998.82.special-iss,Mavrik Zavarin,
+49,bm82,http://dx.doi.org/10.1016/0016-7037(82)90010-2,Mavrik Zavarin,did not add complex mixtures of metals to database
+50,bm81,http://dx.doi.org/10.2475/ajs.281.6.788,Mavrik Zavarin,
+51,bb99,http://dx.doi.org/10.1016/S0016-7037(98)00281-6,Mavrik Zavarin,
+52,bb02,http://dx.doi.org/10.1016/S0016-7037(02)00841-4,Mavrik Zavarin/Victoria Genetti,
+53,bb97,http://dx.doi.org/10.1016/S0169-7722(97)00008-9,Mavrik Zavarin,noisy surface charge data not included
+54,bb97a,http://dx.doi.org/10.1016/S0169-7722(97)00007-7,Mavrik Zavarin,modeling effort for bb97
+55,bge00,https://doi.org/10.1016/S0892-6875(00)00140-0,Mavrik Zavarin,
+56,bbs03,http://dx.doi.org/10.1023/B%3AAQUA.0000019455.8275,Mavrik Zavarin,
+57,chm93,http://dx.doi.org/10.1021/la00035a051,Mavrik Zavarin,did not digitize the hydrous chromate data
+58,pbb99,http://dx.doi.org/10.1016/S0016-7037(99)00246-X,Mavrik Zavarin,
+59,eicg03,http://dx.doi.org/10.1016/S0927-7757(02)00587-3,Mavrik Zavarin,
+60,mdf99,http://dx.doi.org/10.1006/jcis.1998.5968,Mavrik Zavarin,
+61,m80,https://doi.org/10.1071/SR9800061,Mavrik Zavarin,
+62,tf97,https://doi.org/10.1006/jcis.1997.5169,Mavrik Zavarin,
+63,ta01,http://dx.doi.org/10.1006/jcis.2001.7970,Mavrik Zavarin,
+64,ml91,http://dx.doi.org/10.1524/ract.1991.54.3.139,mavrik zavarin,only a small fraction is original data
+65,zlqwwzy16,https://doi.org/10.1515/ract-2016-2654,Sam Shipman,
+66,hchk01,http://dx.doi.org/10.1023/A:1013212130177,Sam Shipman,could not find mineral surface area data
+67,mag06,http://dx.doi.org/10.1021/es052483i,Sam Shipman,in process of inputting metadata
+68,bb05,http://dx.doi.org/10.1016/j.gca.2004.07.020,Amanda Deinhart,
+70,hm10,http://dx.doi.org/10.1007/s10967-010-0476-x,Amanda Deinhart,
+71,ist08,http://dx.doi.org/10.1524/ract.2008.1558,Victoria Genetti,
+72,bm11,https://doi.org/10.1007/s12665-010-0761-6,Amanda Deinhart,
+73,ssfxcw09,https://doi.org/10.1524/ract.2009.1656,Victoria Genetti,Fig3b: titration data available but not digitized
+74,nrsgwy17,https://doi.org/10.1007/s10967-017-5290-2,Amanda Deinhart,figure 3 (ionic strength dependence) not in database
+75,cjgmw14,http://dx.doi.org/doi:10.1016/j.cej.2014.06.096,Sam Shipman,
+76,bbgr05,http://dx.doi.org/10.1016/j.gca.2005.06.031,mavrik zavarin/ethan,"Eu and Cm on illite and montmorillonite, not original data; Surface information is presented in site types, not as one site. No gas information provided"
+77,gfmmg06,http://dx.doi.org/10.1524/ract.2006.94.9-11.627,mavrik zavarin,"compilation of montmorillonite data, not original"
+78,tnoyssyy10,https://doi.org/10.1524/ract.2010.1772,mavrik zavarin,"Np on montmorillonite, not original"
+79,tof94,https://doi.org/10.1524/ract.1994.6667.special-iss,mavrik zavarin,"Np on bentonite, not original"
+80,bm82a,http://dx.doi.org/10.1016/0016-7037(82)90057-6,Frank Bok,
+81,cl86,http://dx.doi.org/10.1016/0883-2927(86)90010-7,Frank Bok,
+82,fac91,fac91.pdf,Frank Bok,Cd and Cu data not imported
+83,m74,http://dx.doi.org/10.1016/0021-9797(74)90045-9,Frank Bok,
+84,m75,http://dx.doi.org/10.1016/0016-7037(75)90103-9,Frank Bok,"cation adsorption data not imported; in RES3T as ""m75a"""
+85,m81,,Frank Bok,no reference in database
+86,pl01,http://dx.doi.org/10.1016/S0883-2927(01)00011-7,Frank Bok,poor data
+87,ps07,http://dx.doi.org/10.1016/j.chemgeo.2006.10.019,Frank Bok,Ni data not digitized
+88,rfgr99,http://dx.doi.org/10.1007/BF02878516,Frank Bok,Au(III) data not digitized
+89,rgrk14,http://dx.doi.org/10.1016/j.chemgeo.2014.02.025,Frank Bok,U data not digitized
+90,tllfhk08,tllfhk08.pdf,Frank Bok,"cryptometale, todorokite, and goethite not digitized; might not be able to download from link"
+91,ap99,http://dx.doi.org/10.1016/S0016-7037(99)00231-8,Frank Bok,all data from other references
+92,wlclbtg13,https://doi.org/10.1021/es304454g,Frank Bok,biogenic mno2 not digitized
+93,afpmagl10,https://doi.org/10.1016/j.jcis.2010.03.020,Frank Bok,phosphate data not digitized
+94,d02,,Frank Bok,phd thesis; awaiting QA from Bok prior to data upload
+95,d78,d78.pdf,Frank Bok,only surface charge data digitized
+96,dl80,http://dx.doi.org/10.1016/0021-9797(80)90168-X,mavrik zavarin,
+97,gmm97,http://dx.doi.org/10.1016/S0927-7757(96)03854-X,Frank Bok,Co and Zn data not digitized
+98,hl85,http://dx.doi.org/10.1016/0016-7037(85)90088-2,Frank Bok,
+99,hvmk05,http://dx.doi.org/10.1016/j.jcis.2004.08.105,Frank Bok,Sr data not digitized
+100,km89,http://dx.doi.org/10.1016/0166-6622(89)80085-X,Frank Bok,"only HFO; in RES3t as ""km89a"""
+101,mp13,https://doi.org/10.1016/j.gca.2012.11.030,Frank Bok,Cu data not digitized
+102,nf10,http://dx.doi.org/10.1016/j.gca.2010.08.002,Frank Bok,iodine data not digitized
+103,nft09,http://dx.doi.org/10.1016/j.jcis.2008.12.037,Frank Bok,iondine data not digitized
+104,p09,http://dx.doi.org/10.1016/j.jcis.2008.11.074,Frank Bok,
+105,akbn96,,Frank Bok,no original reference
+106,gdb09,http://dx.doi.org/10.1016/j.apgeochem.2008.12.032,Frank Bok,
+107,jdb07,http://dx.doi.org/10.1021/es070068f,Frank Bok,
+108,usbr08,http://dx.doi.org/10.1016/j.apgeochem.2008.05.013,Frank Bok,
+109,wdpwx94,http://dx.doi.org/10.1016/0016-7037(94)90243-7,Frank Bok,
+110,wkm03,http://dx.doi.org/10.1021/es034166m,Frank Bok,
+111,dmbc97,http://dx.doi.org/10.1524/ract.1997.76.4.219,Frank Bok,
+112,hvb87,https://library.wur.nl/ojs/index.php/njas/article/,Frank Bok,original doc not available
+113,kd10,,Frank Bok,book chapter of karamalidis and dzombak
+114,kpq75,http://dx.doi.org/10.1111/j.1365-2389.1975.tb01927,Frank Bok,reference not available online
+115,lx08,http://dx.doi.org/10.1016/j.colsurfa.2008.05.023,Frank Bok,only gibbsite data digitized
+116,mzst95,http://dx.doi.org/10.1346/CCMN.1995.0430508,Frank Bok,
+117,rps02,http://dx.doi.org/10.1021/la015753t,Frank Bok,
+118,wat01a,http://dx.doi.org/10.1016/S0927-7757(01)00578-7,Frank Bok,Pb data not digitized
+119,wda00,http://dx.doi.org/10.1016/S0927-7757(00)00453-2,Frank Bok,Cu data not digitized
+120,yswf07,http://dx.doi.org/10.1016/j.jcis.2006.12.023,Frank Bok,alpha and gama aluminum hydroxide not digitized
+121,dmb98,https://op.europa.eu/en/publication-detail/-/publi,Frank Bok,Hyperlink to Office of EU publications site. Could not find DOI
+122,hyz05,,Frank Bok,reference unknown
+123,j95,,Frank Bok,thesis reference in res3t database
+124,rll98,http://dx.doi.org/10.1016/B978-012384245-9/50014-1,Frank Bok,chapter cover page only
+125,jwb16,,Frank Bok,reference not found
+126,ea08,http://dx.doi.org/10.2136/sssaj2007.0190,Frank Bok; Jon Golla,"phosphate, arsenate on kaolinite not digitized; binary-ligand cases for ketogluconate sorption not digitized"
+127,k97,http://dx.doi.org/10.1111/j.1365-2389.1997.tb00214,Frank Bok,"goethite data not digitized; in RES3T as ""K97c"""
+128,bc92,http://dx.doi.org/10.1111/j.1365-2389.1992.tb00137,Frank Bok,mercury data not digitized
+129,ftons95,http://dx.doi.org/10.1557/PROC-353-965,Frank Bok,Np on iron oxides?could not access reference; goethite pzc seems odd
+130,gaagn02,http://dx.doi.org/10.1006/jcis.2002.8261,Frank Bok,
+131,grl94,,Frank Bok,original document not accessed
+132,hcs93,http://dx.doi.org/10.1007/BF00479406,Frank Bok,sulfate and Cd not digitized
+133,hrel91,http://dx.doi.org/10.1016/0021-9797(91)90075-J,Frank Bok,rutile and alumina not digitized
+134,lawj03,http://dx.doi.org/10.1016/S0021-9797(02)00031-0,Frank Bok,Cd and illite and kaolinite data not digitized
+135,le94,http://dx.doi.org/10.1006/jcis.1994.1150,Frank Bok,
+136,mgm03,http://dx.doi.org/10.1016/S0021-9797(02)00246-1,Frank Bok,U data not digitized
+137,ms92,http://dx.doi.org/10.1016/0021-9797(92)90187-Q,Frank Bok,Pb data not digitized
+138,nmdb05,http://dx.doi.org/10.1016/j.jconhyd.2004.10.002,Frank Bok,Eu data not digitized
+139,ps04c,http://dx.doi.org/10.1016/j.gca.2003.11.030,Frank Bok,"Cu data not digitized, hematite, lepidocrosite not digitized; Cu, goethite, lepidocrocite data not digitized"
+140,rav94,http://dx.doi.org/10.1524/ract.1994.6667.special-i,Frank Bok,Na sorption data not digitized
+141,rhv06a,http://dx.doi.org/10.1016/j.jcis.2005.06.089,Frank Bok,titration in K and Li electrolytes not digitized
+142,rl97,http://dx.doi.org/10.1006/jcis.1996.4752,Frank Bok,rutile data not digitized
+143,rl98,http://dx.doi.org/10.1021/es9709942,Frank Bok,Cu data not digitized
+144,s79,http://dx.doi.org/10.3929/ethz-a-000191823,Frank Bok,thesis in german
+145,vl00,http://dx.doi.org/10.1016/S0016-7037(00)00465-8,Frank Bok,most data digitized
+146,y75,y75.pdf,Frank Bok,phd thesis; original not available
+147,bnbq80,,Frank Bok,reference not available
+148,tad01,https://doi.org/10.1016/S0927-7757(01)00768-3,Mavrik Zavarin,did not digitize multi-ion competitive sorption
+149,ta01a,http://dx.doi.org/10.1021/es001644+,Mavrik Zavarin,T data not digitized
+150,aa95,http://dx.doi.org/10.1006/jcis.1995.1441,Mavrik Zavarin,
+151,ta99,http://dx.doi.org/10.1006/jcis.1999.6465,Mavrik Zavarin,
+152,aamsm03,https://doi.org/10.1016/S0043-1354(02)00524-9,Mavrik Zavarin,could not find solid/solution ratios in experiments!
+154,smrlg15,http://dx.doi.org/10.1016/j.gca.2014.11.011,Victoria Genetti,
+155,yhlgmw10,https://doi.org/10.1524/ract.2010.1784,Victoria Genetti,
+156,gg88,http://dx.doi.org/10.2136/sssaj1988.03615995005200,Victoria Genetti,
+157,etrrom04,https://doi.org/10.1016/j.gca.2003.09.023,Victoria Genetti,
+158,emibsgg17,https://doi.org/10.1016/j.gca.2016.10.040,Victoria Genetti,
+159,bb09,http://dx.doi.org/10.1016/j.gca.2008.11.017,Victoria Genetti,
+160,bchssy98,https://doi.org/10.1016/S0169-7722(98)00122-3,Sam Shipman,
+161,fs06,http://dx.doi.org/10.1007/s10967-006-0459-0,Victoria Genetti,
+162,da96,https://doi.org/10.2136/sssaj1996.0361599500600005,mavrik zavarin,
+163,dw14,https://doi.org/10.1021/es501782g,Mavrik Zavarin,
+164,ggsc98,https://doi.org/10.1016/S0009-2541(98)00074-6,Mavrik Zavarin,goethite coated sand data
+165,sph08,https://doi.org/10.1016/j.gca.2007.10.023,Mavrik Zavarin,
+166,t83,t83.pdf,frank bok,thesis available in res3t
+167,crco08,http://dx.doi.org/10.1186/1467-4866-9-2,Frank Bok,Sr sorption to silica and goethie not digitized; carbonate sorption data is simulated
+168,ra91,ra91.pdf,Frank Bok,potentiometric titration and isotherm data not digitized
+169,rhv07a,http://dx.doi.org/10.1016/j.jcis.2007.07.017,Frank Bok,phosphate data not digitized
+170,mg07,http://dx.doi.org/10.1016/j.pce.2006.02.052,Amanda Deinhart,
+171,b71,http://dx.doi.org/10.1039/DF9715200264,Frank Bok,no data digitized
+172,cfkm91,http://dx.doi.org/10.1016/0166-6622(91)80246-K,Frank Bok,
+173,ck99,http://dx.doi.org/10.1016/S0016-7037(99)00266-5,Frank Bok,cu and pb data not digitized
+174,eabfy13,http://dx.doi.org/10.1016/j.gca.2013.08.023,Frank Bok/ethan,"Eu data not digitized; potentiometric titration data figure should be micromol/L not nanomol/L; Each entry is a different temperature, no CEC given"
+175,gk90,http://dx.doi.org/10.1016/0021-9797(90)90258-P,Frank Bok,rutile data not digitized
+176,grwae01,http://dx.doi.org/10.1006/jcis.2001.7725,Frank Bok,
+177,hbkm87,http://dx.doi.org/10.1021/la00077a041,Frank Bok,
+178,hkm91,http://dx.doi.org/10.1021/la00049a032,Frank Bok,methanol and ethanol data not digitized
+179,hl08,http://dx.doi.org/10.1016/j.jcis.2007.11.032,Frank Bok,
+180,khl99,https://doi.org/10.1524/ract.1999.85.12.33,Frank Bok,
+181,mf99,http://dx.doi.org/10.1006/jcis.1998.6039,Frank Bok,La data not digitized
+182,mlh99,http://dx.doi.org/10.1016/S0927-7757(99)00115-6,Frank Bok,NOM titration data not digitized
+183,p98,http://dx.doi.org/10.1006/jcis.1998.5647,Frank Bok,"only original data digitized, 60 and 100C data not digitized"
+185,rk14,http://dx.doi.org/10.1515/ract-2014-2108,Frank Bok,
+187,zsbus09,http://dx.doi.org/10.1021/es802334e,Frank Bok,
+188,hm86,http://dx.doi.org/10.1016/0021-9797(86)90365-6,Frank Bok,
+189,lcv99,http://dx.doi.org/10.1016/S0016-7037(99)00265-3,Frank Bok,lots of data not digitized
+190,lh99,http://dx.doi.org/10.1016/S0016-7037(99)00269-0,Frank Bok,
+191,cdo98,http://dx.doi.org/10.1016/S0169-7722(98)00123-5,Frank Bok,"Cs, Ba, Eu data not digitized"
+192,mgarl08,http://dx.doi.org/10.1016/j.pce.2008.05.011,Frank Bok,Si sorption not digitized
+193,mgf03,http://dx.doi.org/10.1016/S0016-7037(02)01350-9,Frank Bok,
+194,tmm83,http://dx.doi.org/10.1016/0021-9797(83)90152-2,Frank Bok,Co data not digitized
+195,dskmp10,http://dx.doi.org/10.1007/s10967-010-0627-0,Frank Bok,
+196,lslch17,http://dx.doi.org/10.1021/acssuschemeng.7b00829,Frank Bok,T dependent isotherms not digitized
+197,lyljd14,http://dx.doi.org/10.1039/C4EM00301B,Frank Bok,
+198,shm89,http://dx.doi.org/10.1016/0021-9797(89)90102-1,Frank Bok,
+199,kdse04,http://dx.doi.org/10.1021/es0348344,Frank Bok,calcite equilibrium data not included
+200,mbdsb12,http://dx.doi.org/10.1016/j.gca.2012.04.017,Frank Bok,
+201,bl71,http://dx.doi.org/10.1039/DF9715200324,Frank Bok,same data as b73; 1M titration data missing
+202,kb09,http://dx.doi.org/10.1016/j.jhazmat.2009.04.014,Frank Bok,"U, smectite, and alumina data not digitized"
+203,kymn96,http://dx.doi.org/10.1080/18811248.1996.9732018,Frank Bok,
+204,r82a,r82a.pdf,Frank Bok,"Ra, Th, kaolinite data not digitized"
+205,tz02,http://dx.doi.org/10.1006/jcis.2002.8277,Frank Bok,
+206,wb98,https://doi.org/10.1346/CCMN.1998.0460410,Frank Bok/a. wailing,"T, alumina, kaolinite titration data not digitized, oxalate not digitized; no mention of exp. conditions (assumed open)"
+207,z00,,Frank Bok,"PhD thesis, available from Bok"
+208,rs81,http://dx.doi.org/10.2172/6279567,Frank Bok,too many unknowns to incorporate data
+209,cphtw11,http://dx.doi.org/10.1021/es201046x,Frank Bok,
+210,nkm14,https://doi.org/10.1007/s12665-014-3258-x,Frank Bok,
+211,whwll19,https://doi.org/10.1016/j.jes.2018.03.010,Frank Bok,"surface area not reported, data not included in database"
+212,lds03,http://dx.doi.org/10.1524/ract.91.8.453.20004,Frank Bok,zirconium silicate data not digitized
+213,pmbwa09,https://doi.org/10.1007/s10953-009-9415-2,Frank Bok,
+214,sm82,https://doi.org/10.1016/0016-7037(82)90251-4,mavrik zavarin,
+216,zb04,zb04.pdf,mavrik zavarin,
+217,zrhsk05,https://doi.org/10.1524/ract.93.2.93.59413,mavrik zavarin/erin black,
+218,csb18,https://doi.org/10.1007/s12665-018-7316-7,mavrik zavarin,
+219,ab90a,http://dx.doi.org/10.1021/es00075a013,mavrik zavarin,
+220,bc90,http://dx.doi.org/10.1016/0016-7037(90)90369-V,mavrik zavarin,competitive sorption not digitized
+222,dlf06,http://dx.doi.org/10.1016/j.jcis.2006.01.029,mavrik zavarin,
+223,dlfjr03,http://dx.doi.org/10.1016/S0265-931X(03)00125-5,mavrik zavarin,
+224,g85,http://dx.doi.org/10.2136/sssaj1985.03615995004900,mavrik zavarin,insufficient data to digitize; need to track down Hingston PhD thesis with original data
+225,hpl88,http://dx.doi.org/10.1016/0021-9797(88)90039-2,mavrik zavarin,
+226,hrbhl87,http://dx.doi.org/10.1126/science.238.4828.783,mavrik zavarin,
+227,hv99,http://dx.doi.org/10.1006/jcis.1998.5904,mavrik zavarin,no original data?hingston data still missing from database
+228,jlmge09,http://dx.doi.org/10.1016/j.jcis.2008.09.052,mavrik zavarin,
+229,jrfsw13,http://dx.doi.org/10.1016/j.gca.2012.09.048,mavrik zavarin,
+230,jrsws14,http://dx.doi.org/10.1021/es4045852,mavrik zavarin,
+231,kmlbc12,http://dx.doi.org/10.1016/j.jenvrad.2011.09.013,mavrik zavarin,
+232,zs90a,http://dx.doi.org/10.1021/es00082a010,mavrik zavarin,
+233,nfhpl17,http://dx.doi.org/10.1021/acs.est.6b06104,mavrik zavarin,ternary expts not digitized
+234,masgg09,http://dx.doi.org/10.1016/j.gca.2009.07.005,mavrik zavarin,
+235,mgdrd06,http://dx.doi.org/10.1016/j.apsusc.2005.05.067,mavrik zavarin,
+236,bb81,http://dx.doi.org/10.1007/978-1-4613-3264-0_3,solchan han,"co, zn, cd data not digitized"
+237,bc87,http://dx.doi.org/10.2136/sssaj1987.03615995005100,solchan han,
+238,hpq71,http://dx.doi.org/10.1039/DF9715200334,solchan han,"P and As not digitized, gibbsite not digitized, fig4 insufficient information to digitize"
+239,lbhka80,lbhka80\lbhka80.pdf,solchan han,only Se data digitized; many other elements not digitized
+240,rgmmd08,http://dx.doi.org/10.1016/j.jhazmat.2007.04.098,solchan han,
+241,rhv01,http://dx.doi.org/10.1006/jcis.2001.7650,solchan han,sulfate data not digitized
+242,hpq72,http://dx.doi.org/10.1111/j.1365-2389.1972.tb01652,mavrik zavarin,ony digitized Se data
+243,ss00,http://dx.doi.org/10.2136/sssaj2000.641101x,mavrik zavarin,
+244,wat01c,http://dx.doi.org/10.1021/ie000992h,mavrik zavarin,ony digitized Se data
+245,mlpcfz09,https://doi.org/10.1016/j.jcis.2008.11.009,mavrik zavarin,only surfate free potentiometrid titration data
+246,rbm83,https://doi.org/10.1016/0021-9797(83)90370-3,mavrik zavarin,
+247,bfmr84,https://doi.org/10.1016/0021-9797(84)90052-3,mavrik zavarin,
+248,b68,http://dx.doi.org/10.1002/ijch.196800005,Elliot Chang,"Only Na,Ca,K ion exchange imported (not H)"
+249,bsssn17,https://doi.org/10.1016/j.gca.2017.03.004,Solchan Han,
+250,ps02a,https://doi.org/10.1021/es0156643,Solchan Han,"Used the same nomenclature used in RES3T database (ps02a), HFO adsorption data was not imported since no have SA value"
+251,bb09a,https://doi.org/10.1016/j.gca.2008.11.016,mavrik zavarin,PSI electronic database import
+252,bb05a,bb05a.pdf,mavrik zavarin,"psi data ingestion, psi report"
+253,bb06,https://doi.org/10.1524/ract.2006.94.9-11.619,mavrik zavarin/ethan,psi data ingestion; Uncertainty provided but cannont be digitized due to overlap
+255,bb17,bb17.pdf,mavrik zavarin,psi data ingestion
+256,bb17a,bb17a.pdf,mavrik zavarin,psi data ingestion
+257,dbb11,https://doi.org/10.1016/j.gca.2011.06.025,mavrik zavarin,psi data ingestion
+258,fb19,https://doi.org/10.1016/j.apgeochem.2018.11.005,mavrik zavarin,psi data ingestion
+259,fb20,fb20.pdf,mavrik zavarin,psi data ingestion_competitive sorption data not loaded
+260,fvb15,http://dx.doi.org/10.1016/j.apgeochem.2015.05.006,mavrik zavarin,psi data ingestion
+261,kbbb21,https://doi.org/10.1016/j.apgeochem.2021.105117,mavrik zavarin,psi data ingestion
+262,mbgk18,https://doi.org/10.1016/j.gca.2017.11.027,mavrik zavarin,psi data ingestion
+263,pbb99a,pbb99a.pdf,mavrik zavarin,psi data ingestion
+264,psiXX,,mavrik zavarin,psi data ingestion unreleased data
+265,sbbf14,https://doi.org/10.1021/es501902f,mavrik zavarin,psi data ingestion
+266,sfbd13,https://doi.org/10.1021/es304270c,mavrik zavarin,psi data ingestion
+267,awj06b,https://doi.org/10.1021/la0534571,Jon Golla,
+268,awj06a,https://doi.org/10.1016/j.jcis.2005.07.066,Jon Golla,
+269,afi02,https://doi.org/10.1006/jcis.2001.8133,Jon Golla,Figures 3 and 4 contain binary-ligand sorption data but not digitized
+270,fb95,https://doi.org/10.1016/0009-2541(94)00134-T,Jon Golla/A. Wailing,"vessels were pumped with N2 gas before and during rxn, didn't record any atm. gas data in databasebc of this (might be an incorrect assumption)"
+271,fghgwsy22,https://doi.org/10.1016/j.mineng.2022.107571,Jon Golla,
+272,iwja05a,https://doi.org/10.1346/CCMN.2005.0530203,Jon Golla,Figure 5 contains more data (w/ presence of Zn(II) metal) but not digitized
+273,pt97,https://doi.org/10.1007/BF00119855,mavrik zavarin,
+274,ghpb12,https://doi.org/10.1016/j.jhazmat.2011.08.023,mavrik zavarin,cannot determine units for isotherm data
+275,lyt14,https://doi.org/10.1080/00223131.2014.864457,mavrik zavarin,
+276,jpk15,https://doi.org/10.1007/s12665-015-4103-6,mavrik zavarin,
+277,jmlg09,https://doi.org/10.1016/j.chemosphere.2008.11.018,mavrik zavarin,
+278,kv13,https://doi.org/10.1524/ract.2013.2041,mavrik zavarin,
+279,lyjl16,https://doi.org/10.1016/j.jhazmat.2016.01.078,mavrik zavarin,
+280,lwpb19,https://doi.org/10.1016/j.jcis.2018.11.018,mavrik zavarin,
+281,bbbkt07,https://doi.org/10.1524/ract.2007.95.10.569,Powell/Wailing/Black,Uncertainty values are provied in figure but cannot be accurately digitized due to overlap
+282,LBSSVRS10,https://doi.org/10.1007/s10967-010-0726-y,Ethan,Gas condition only mentions Ar atmosphere
+283,ZB04a,http://dx.doi.org/10.2172/15015949,Ethan,"No uncertainity data, original data in french (hard to find data)"
+284,BB09b,http://dx.doi.org/10.1016/j.gca.2008.11.016,Ethan,"Uncertainty values provided but difficult todigitize due to overlap, rxns held under N2 (no specific amount given) but O2 and CO2 approx conc were, mineral information unclear"
+285,TOS14,http://dx.doi.org/10.1080/00223131.2014.914452,Ethan,No differentiation in Eu(III) vs Am(III) except in figure description (data on figures for Eu(III) say Am(III))
+286,DKM14,https://doi.org/10.1016/j.jenvrad.2014.06.007,Ethan,"Original data from multiple different papers referenced from this paper, no gas data available, no uncertainity values given"
+287,KFYNM99,http://dx.doi.org/10.1080/18811248.1999.9726312,Ethan,"No uncertainity data, only 1 data point for 0.1 M NaClO4, only mentions atmosphere of argon and not amount"
+288,SSLWF08,http://dx.doi.org/10.1016/j.jcis.2007.09.080,Ethan,"No uncertainity values given, only mentions atmosphere for reaction is under argon"
+290,BBGR06,http://dx.doi.org/10.1016/j.gca.2005.06.032,Ethan,"Surface information is presented in site types, not as one site. No gas information provided, same paper as previous entry"
+293,BBBHT95,http://dx.doi.org/10.1557/PROC-353-957,Ethan,"Data presetned in table, not figures. References UK DOE report part I-III as source of some data but cannot obtain report. No CEC reported and gas only reported as deoxygenated and under N2. Each entry is different filtration method"
+296,bmskk12,https://doi.org/10.1007/s10967-012-1938-0,Erin Black,"originally noted as f1, changed to f4"
+297,cag88,https://doi.org/10.1016/0048-9697(88)90263-X,Erin Black,"noted as f1, but it is actually table 1; data not suitable"
+298,cga93,https://doi.org/10.1016/0048-9697(93)90093-L,Erin Black,removed from database; filter data not appropriate
+299,fsh09,https://doi.org/10.1524/ract.2000.88.9-11.675,Erin Black,"changed from ""f1a"" to ""f2b"""
+300,FIIAS97,ISSN: 00408808,Erin Black,"Sorption of plutonium on a biotite mineral(Article) -- Furuya, H.,Idemitsu, K.,Inagaki, Y.,Arima, T.,Sasaki, T.,Kuroda, Y.,Uchikawa, S.,Mitsugashira, S.,Suzuki, Y."
+301,kkt12,https://doi.org/10.1524/ract.2012.1984,Erin Black,
+302,ksktn07,https://doi.org/10.1134/S1066362207040170,Erin Black,
+303,lckbt98,https://doi.org/10.1524/ract.1998.83.4.167,Erin Black,data not digitized?non-equilibrium experiments
+304,lhclx16,https://doi.org/10.1007/s10967-015-4594-3,Erin Black,
+305,dmrgb04,https://doi.org/10.1557/PROC-807-659,Erin Black,
+306,mbldb17,https://doi.org/10.1016/j.jcis.2016.09.013,Erin Black,
+307,mgahs05,https://doi.org/10.1007/s10967-005-0019-z,Erin Black,
+308,oja03,https://doi.org/10.1016/S0021-9797(03)00756-2,Erin Black,
+309,rka11,https://doi.org/10.1524/ract.2011.1808,Erin Black,
+310,rkezs13,http://dx.doi.org/10.1016/j.gca.2013.07.016,Erin Black,
+311,rmssg03,https://doi.org/10.1063/1.1594670,Erin Black,
+312,sksz06,https://doi.org/10.1007/s10967-006-0356-6,Erin Black,
+313,smlwl19,https://doi.org/10.1021/acsearthspacechem.9b00105,Erin Black,
+315,snbsw03,https://doi.org/10.1021/es025989z,Erin Black,
+316,wa01,https://doi.org/10.1021/ie000991p,Erin Black,change name seriously
+318,ljaw03,https://doi.org/10.1016/S0021-9797(03)00693-3,A. Wailing,exp. carried out in nitrogen atmosphere
+319,fhr97,https://doi.org/10.1006/jcis.1997.5152,A. Wailing,no mention of exp. conditions (assumed open)
+320,sjs14,https://doi.org/10.1007/s10967-013-2825-z,A. Wailing,no mention of mineral value; exp. performed under nitrogen atmosphere
+321,mf92,https://doi.org/10.1021/es00036a004,A. Wailing,exp. performed in nitrogen atmosphere; unsure whether I used correct electrolyte or not (amounts were clear but specific electrolyte was not)
+322,vcb91,https://doi.org/10.2136/sssaj1991.0361599500550001,A. Wailing,no mention of exp. conditions (assumed open); 2 surface areas given based on Al2O3 synthesis (didn't record either)
+323,ghv98,https://doi.org/10.1021/es970908y,A. Wailing,no mention of exp. conditions (assumed open)
+324,cs91,https://doi.org/10.1346/CCMN.1991.0390405,A. Wailing,no mention of exp. conditions (assumed open)
+325,jb98,https://doi.org/10.1046/j.1365-2389.1998.4930447.x,A. Wailing,no mention of exp. conditions (assumed open); paper is largely unclear/leaves out many parameters; MES-TRIZMA = [N-morpholino]-ethanesulfonic acid-Tris[hydroxymethayl]laminomethane
+326,cs91(2),https://doi.org/10.1346/CCMN.1991.0390207,A. Wailing,"no mention of exp. conditions (assumed open); paper is a bit unclear, might want to recheck database values"
+327,abmt05,https://doi.org/10.1016/j.jcis.2005.02.043,A. Wailing,"no mention of exp. conditions (assumed open); very incomplete, missing a lot of info"
+328,h02,https://doi.org/10.1006/jcis.2002.8600,A. Wailing,"no mention of exp. conditions (assumed open); no mineral values given; Y-axis on graphs is sorbed in terms of count rate (don't know what count rate means, may not be able to use this)"
+329,bm87,https://doi.org/10.1016/0016-7037(87)90208-0,A. Wailing,no mention of exp. conditions (assumed open)
+331,vrdg96,https://doi.org/10.1111/j.1365-2389.1996.tb01395.x,A. Wailing,not included in database; no solid phase
+332,pa05,https://doi.org/10.1016/j.gca.2004.07.009,A. Wailing,no mention of exp. conditions (assumed open); 2 different types of bond forming oxalate looked at (metal (MBSC) and hydrogen (HBSC) bonds)
+333,llp09,https://doi.org/10.1021/la900852p,A. Wailing,no mention of exp. conditions (assumed open)
+334,jysb04,https://doi.org/10.1021/la048559q,A. Wailing,no mention of exp.conditions (assumed open); 2nd set of data (f2) varies in time
+335,sdp98,https://doi.org/10.1021/es980258d,A. Wailing,no mention of exp.conditions (assumed open); extrapolated surface area from referenced paper; no mention of ionic strength
+336,bf96,https://doi.org/10.1016/0016-7037(96)00131-7,A. Wailing,"no mention of exp. conditions (assumed open); seems like there may have also been Cd in the solution, but doesn't show sorption or data for it in relevant figure (Cd = 10^-4 M)"
+337,zkm85,https://doi.org/10.1021/la00062a004,A. Wailing,no mention of exp. conditions (assumed open); zkm85_f1a and zkm85_f1b differe bc the former is with ultrasonic treatment and the latter is without
+338,epb99,https://doi.org/10.2136/sssaj1999.6351133x,A. Wailing,no mention of exp. conditions (assumed open)
+339,hs94,https://doi.org/10.1021/la00022a036,A. Wailing,removed from database
+340,lp09,https://doi.org/10.1111/j.1365-2389.2009.01171.x,A. Wailing,no mention of exp. conditions (assumed open)
+341,nl15,https://doi.org/10.1016/j.jcis.2015.08.028,A. Wailing,no mention of exp. conditions (assumed open); no sorbant value found for figure 2 data; paper is too recent (2015) -- no CO2 value given in tab
+342,dkt91,https://doi.org/10.1016/0166-6622(91)80061-R,A. Wailing,no mention of exp. conditions (assumed open)
+343,cs80,https://doi.org/10.1007/BF01382462,A. Wailing,"no mention of exp. conditions (assumed open); only a range of sorbent values given, no specific value given"
+344,avp05,https://doi.org/10.1016/j.jcis.2005.07.013,A. Wailing,no mention of exp. conditions (assumed open)
+345,rh14,https://doi.org/10.1016/j.clay.2014.01.007,A. Wailing,no mention of exp. conditions (assumed open)
+346,rcrfh11,https://doi.org/10.2138/am.2011.3694,A. Wailing,no mention of exp. conditions (assumed open)
+347,rgrjh14,https://doi.org/10.1016/j.chemgeo.2013.11.014,A. Wailing,no mention of exp. conditions (assumed open)
+350,ddbbj13,https://doi.org/10.1016/j.apgeochem.2013.03.018,A. Wailing,"exp. conducted under N atmosphere; paper references other experiment (attached) which conducted the experiments they are modeling, but I couldn't find the same figures in second paper - I used the experimental conditions explained in attached paper"
+351,mhsh09,https://doi.org/10.1021/es801970z,A. Wailing,no mention of exp. conditions (assumed open)
+352,km84a,https://doi.org/10.1021/la00062a003,A. Wailing,no mention of exp. conditions (assumed open)
+353,kikk09,https://doi.org/10.1016/j.jconhyd.2009.09.003,A. Wailing,"open exp. conditions; ""mineral"" used in exp. was mainly montomillornite, also had other constituents as described in paper"
+354,syw09,https://doi.org/10.1016/S1001-0742(09)60019-X,A. Wailing,no mention of exp. conditions (assumed open)
+355,ldt91,https://doi.org/10.1007/BF00282909,A. Wailing,exp. conducted under N atmosphere
+356,jvpl06,https://doi.org/10.2136/sssaj2005.0080,A. Wailing,"no mention of exp. conditions (assumed open); ""mineral"" used was an iron oxide coated allophane"
+357,w16,,,Unpublished data will be publiushed in the Np-Hematite sorption paper from Clemson
+358,e14,,,Unpublished data
+359,mp15,,,DOE report
+360,mgrbfbf19,,,
+361,tssy01,https://doi.org/10.1016/S0169-7722(00)00147-9,Annelise Waling,"data already in table, no need to digitize; tssy01_f1a and tssy01_f2a had only deonized water"
+362,rl16,https://doi.org/10.1016/j.jenvrad.2016.03.014,Annelise Waling,said that CO2 introduction was limited; couldn't inclde CO2 anyways because the study was too recent (2016)
+363,chpct20,https://doi.org/10.1144/geochem2019-025,Annelise Waling,study is too recent to have a CO2 value (2020); no mention of electrolyte used; used modified bauxote refinery residue (quite honestly not sure what this is but I figured I may as well digitize it anyway)
+364,bbs85,https://doi.org/10.1007/BF02040598,Annelise Waling,radium concentration ranged from 8-40 pg/L
+365,amw83,,Brianna Degler,"Data in tables, recorded initial solution of Ra (M), equilibrium solution of Ra (M), and mineral loading (mole Ra/g); used illite, silica, kaolinite, and montmorillonite"
+366,mcgom17,https://doi.org/10.1016/j.apgeochem.2017.09.009,Annelise Waling,"mineral used in this experiment was different forms of clay from Gault Formation in Paris Basin, created four homoionic forms with Na, NH4, Ba, and Ca"
+367,sblvd14,https://doi.org/10.1016/j.gca.2014.10.008,Annelise Waling,"after pH 8, performed in glovebox"
+368,bc13,https://doi.org/10.1016/j.marchem.2013.01.008,Annelise Waling,no mention of exp. conditions (assumed open) or electrolyte used
+369,mh20,https://doi.org/10.1016/j.gca.2020.07.032,Annelise Waling,no mention of exp. conditions (assumed open); too recent (2020) to include CO2 value
+370,k95,https://doi.org/10.1007/BF02039884,Annelise Waling,"exp. performed in a column instead of batch setup; used different water types as the ""electrolyte""; using exp. parameters given by batch description as there were not specifics given for column, I assume it is the same except for electrolyte"
+371,mvmkm16,https://doi.org/10.1007/s11051-016-3615-7,Annelise Waling,"ionic strength had a large composition (0.01 Na2HPO4, 0.0018 KH2PO4, 0.0027 KCl, 0.0137 NaCl); no mention of exp. conditions (assumed open); Ra-223 used in this paper"
+372,bs14,,Brianna Degler,Goethite & ferrihydrite
+373,ck18,https://doi.org/10.1021/acs.est.7b05443,Brianna Degler,Data developed from linear fitting of experimental isotherm data; solution of dissolved Ra with 3% HCl used
+374,bs00,,Brianna Degler,
+375,bsl83,https://doi.org/10.1007/BF02037050,clemson,
+376,mf92a,https://doi.org/10.1021/es00036a005,A. Wailing,exp conducted under N atmospphere; it seems that these experiments are mostly done in competitve adsorption with chromate; datasets with * indicate that this is probably repeat data
