@@ -8,28 +8,23 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D  # For 3D plotting
 
 
-# Load the data from the csv file into a pandas dataframe
-df = pd.read_csv("C:/Users/17032/Downloads/pca/jaea.csv")
+df = pd.read_csv("C:/Users/17032/Downloads/pca/jaea.csv", low_memory=False)
 
 # Check the number of missing values in each column
 print(df.isnull().sum())
 
-# Drop columns with more than 80% missing data
+# Drop columns with more than % missing data
 df_cleaned = df.dropna(thresh=int(0.8 * len(df)), axis=1)
 
-# Select only numeric columns
 numeric_df = df_cleaned.select_dtypes(include=[np.number])
 
-# Check for missing values in numeric columns
 print(numeric_df.isnull().sum())
 
-# Check if there is any numeric data remaining
 if numeric_df.empty:
-    print("No numeric data available after cleaning.")
+    print("No numeric data .")
 else:
     print(f"Number of numeric columns: {numeric_df.shape[1]}")
 
-# Calculate Kd and Ka
 df['Sorbed_val'] = pd.to_numeric(df['Sorbed_val'], errors='coerce')
 df['Mineral_val'] = pd.to_numeric(df['Mineral_val'], errors='coerce')
 df['MineralSA'] = pd.to_numeric(df['MineralSA'], errors='coerce')
@@ -37,58 +32,44 @@ df['MineralSA'] = pd.to_numeric(df['MineralSA'], errors='coerce')
 df['Kd'] = (df['Sorbed_val'] / df['Mineral_val']) * 1000
 df['Ka'] = df['Kd'] / df['MineralSA']
 
-# Scale the numeric data
 scaled_data = preprocessing.scale(numeric_df)
 
 
 
-# Check if there are any infinite or zero values
 numeric_df.replace([np.inf, -np.inf], np.nan, inplace=True)
-
-# Replace any zero values with NaN (to handle issues during scaling)
 numeric_df.replace(0, np.nan, inplace=True)
-
-# Handle NaN values (you can either drop rows with NaN values or replace them with a statistic like the mean)
 numeric_df.fillna(numeric_df.mean(), inplace=True)
 
-# Now scale the numeric data
 scaled_data = preprocessing.scale(numeric_df)
 
-# Check the result
-print(scaled_data[:5])  # Print the first 5 rows to verify scaling
+print(scaled_data[:5])  
 
 # Perform PCA
 pca = PCA()
 pca.fit(scaled_data)
 pca_data = pca.transform(scaled_data)
 
-# Get explained variance ratio
 percent_variation = np.round(pca.explained_variance_ratio_ * 100, decimals=1)
 labels = ["PC" + str(x) for x in range(1, len(percent_variation) + 1)]
 
-# Plot Scree plot
 plt.bar(x=range(1, len(percent_variation) + 1), height=percent_variation, tick_label=labels)
 plt.ylabel('Percentage of Variance Explained')
 plt.xlabel('Principal Components')
 plt.title(' Plot PCA')
 plt.show()
 
-# Create DataFrame for PCA results
 pca_df = pd.DataFrame(data=pca_data, columns=labels)
 
-# Plot the first two principal components
 scatter = plt.scatter(pca_df['PC1'], pca_df['PC2'], c=df['pH'], cmap='viridis', s=60, alpha=0.8)
 plt.title('PCA')
 plt.xlabel(f'PC1 - {percent_variation[0]}%')
 plt.ylabel(f'PC2 - {percent_variation[1]}%')
 cbar = plt.colorbar(scatter)
 cbar.set_label('pH')
-# Annotate each point with the sample name
 
 plt.tight_layout()
 plt.show()
 
-# Add colorbar for the property used in coloring
 
 
 #3d pca
@@ -107,7 +88,7 @@ ax.set_xlabel('PC1')
 ax.set_ylabel('PC2')
 ax.set_zlabel('PC3')
 ax.set_title('3D PCA Plot')
-# Color by pH or any other property you want
+# Color by pH 
 scatter = ax.scatter(pca_df['PC1'], pca_df['PC2'], pca_df['PC3'],
                      c=df['pH'], cmap='viridis', s=50, alpha=0.8)
 cbar = plt.colorbar(scatter, ax=ax, pad=0.1)
@@ -157,11 +138,51 @@ plt.tight_layout()
 plt.show()
 
 
-# Calculate the correlation matrix
+# a correlation matrix
 corr_matrix = numeric_df.corr()
-
-# This colour heatmap displays the correlation to each other property in a heatmap
 plt.figure(figsize=(12,8))
 sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', vmin=-1, vmax=1)
 plt.title('Correlation Heatmap')
 plt.show()
+
+
+
+
+
+
+string_cols = ['Mineral', 'Sorbate']  
+numeric_cols = ['Sorbed_val', 'Mineral_val', 'MineralSA', 'pH']
+
+# Convert numeric columns
+df[numeric_cols] = df[numeric_cols].apply(pd.to_numeric, errors='coerce')
+
+# Clean data
+df_clean = df.dropna(subset=numeric_cols).copy()
+
+# Calculate ratios with zero handling
+df_clean['Kd'] = (df_clean['Sorbed_val'] / df_clean['Mineral_val'].replace(0, np.nan)) * 1000
+df_clean['Ka'] = df_clean['Kd'] / df_clean['MineralSA'].replace(0, np.nan)
+
+
+spread = df_clean[[
+    'pH',
+    'MineralSA',
+    'Mineral',  # String column
+    'Sorbate',  # String column
+    'Sorbed_val',
+    'Mineral_val',
+    'Kd',
+    'Ka'
+]]
+
+# Print formatted output
+print("Sorption Relationship Analysis with Elements:")
+print(spread.head(20).to_string(
+    index=False,
+    formatters={
+        'pH': '{:.2f}'.format,
+        'MineralSA': '{:.4f}'.format,
+        'Kd': '{:.2f}'.format,
+        'Ka': '{:.2f}'.format
+    })
+)
